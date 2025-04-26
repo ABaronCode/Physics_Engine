@@ -5,7 +5,7 @@
 
 //Declarations
 
-std::string main();
+//std::string main();
 std::string createEnv();
 
 std::string referencedMethod();
